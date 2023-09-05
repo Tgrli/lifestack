@@ -1,18 +1,19 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "The Life Stack",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Founder @Diligen.ai | The Life Stack",
+    name: "Kyan Li",
+    image: "/Volumes/Rook/Dev/JavascriptDev/lifestack/src/assets/pfp.PNG" ,// If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "Founder The Life Stack",
     bio: "I build things.",
     email: "Hi@kyan.li",
     linkedin: "",
-    github: "Tgrli",
+    github: "",
     instagram: "",
+    airchat: "conjecture",
   },
   projects: [
     {
-      name: `Diligen.ai`,
+      name: `diligen.ai`,
       href: "https://diligen.ai",
     },
   ],
